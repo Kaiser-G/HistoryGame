@@ -1,9 +1,15 @@
 body {
-
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 95%;
+    margin-left: 2%;
     background-color: rgb(0, 0, 0);
     color: rgb(134, 131, 125);
 }
 
-.container {
-    background-color: gainsboro;
+.container footer {
+    text-align: center;
+    padding-bottom: 30px;
+
 }
